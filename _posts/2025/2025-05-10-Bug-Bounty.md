@@ -2,7 +2,7 @@
 title: "Bug Bounty"
 date: 2025-05-10 11:00:00 - 0600
 categories: [Bug Bounty]
-tags: [XSS, SQLi,SSRF, RCE]
+tags: [XSS, SQLi,SSRF, RCE, LFI]
 image: /assets/img/bug-bounty.webp
 alt: "Image alt text"
 ---
