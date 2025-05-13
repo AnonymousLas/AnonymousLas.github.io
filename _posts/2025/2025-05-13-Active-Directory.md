@@ -2,7 +2,7 @@
 title: "Active Directory"
 date: 2025-05-13 11:00:00 - 0500
 categories: [Active Directoy, Windows]
-tags: [Windows, Directory, Empresa, Web, Hack The Box, Try hack me, GitBook, Libro, Apuntes, Walkthrough]
+tags: [Windows, Directory, Empresa, Web, Hack The Box, Try hack me, GitBook, Libro, Apuntes, Walkthrough, Bloodhound, Rpcclient, LDAP, ManagedUsers, Poisoning de LLMNR-NBT-NS, Pivoting, Ligolo]
 image: /assets/img/active-directory.webp
 alt: "Image alt text"
 ---
