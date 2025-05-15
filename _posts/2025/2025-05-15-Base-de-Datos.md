@@ -1,6 +1,6 @@
 ---
 title: "Base de Datos"
-date: 2025-05-15 12:00:00 - 0900
+date: 2025-05-14 12:00:00 - 0900
 categories: [Base de Datos, Base, Datos]
 tags: [Base de Datos, Base,Datos]
 image: /assets/img/Bases-de-datos.webp
