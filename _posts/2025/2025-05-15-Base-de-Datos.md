@@ -2,18 +2,9 @@
 title: "Base de Datos"
 date: 2025-05-14 12:00:00 - 0900
 categories: [Base de Datos, Base, Datos]
-tags: [Base de Datos, Base,Datos]
+tags: [Base de Datos, Base,Datos,SQL]
 image: /assets/img/Bases-de-datos.webp
 alt: "Image alt text"
----
-
----
-title: "Base de Datos"
-date: 2025-05-15 12:00:00 -0900
-categories: [Base de Datos, SQL, Modelado]
-tags: [SQL Server, MySQL, PostgreSQL, ERD, Relaciones, Llaves Primarias, Llaves Foráneas, Consultas, CRUD, Normalización, Scripts, GitBook, Apuntes, Walkthrough]
-image: /assets/img/Bases-de-datos.webp
-alt: "Base de datos relacionales y diseño lógico"
 ---
 
 # 🗃️ Base de Datos
