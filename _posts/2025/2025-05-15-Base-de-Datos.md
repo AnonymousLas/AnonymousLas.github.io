@@ -1,11 +1,12 @@
 ---
 title: "Base de Datos"
-date: 2025-05-1 1:00:00 - 0100
+date: 2025-05-01 11:00:00 -0100
 categories: [Base de Datos, SQL, Datos]
-tags: [Windows, Directory, Empresa, Web, Hack The Box, Try hack me, GitBook, Libro, Apuntes, Walkthrough, Docker, Proxychains, Base de datos,Escalada de privilegios,Puertos, Estenografía, Bash, Wordpress Hacking,Hack The Box]
+tags: [Base de Datos, SQL, Datos]
 image: /assets/img/Bases-de-datos.webp
-alt: "Image alt text"
+alt: "Consulta a bases de datos y análisis SQL"
 ---
+
 # 🗃️ Base de Datos
 
 Las **bases de datos** permiten organizar, almacenar y gestionar información de forma estructurada. Son esenciales en prácticamente todas las aplicaciones modernas, desde sitios web hasta sistemas empresariales.
