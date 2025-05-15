@@ -6,15 +6,26 @@ tags: [Windows, Directory, Empresa, Web, Hack The Box, Try hack me, GitBook, Lib
 image: /assets/img/active-directory.webp
 alt: "Image alt text"
 ---
-
 # 🧩 Active Directory
 
 **Active Directory (AD)** es una tecnología de Microsoft utilizada para gestionar y organizar redes empresariales. Permite administrar usuarios, equipos y recursos desde una ubicación centralizada. Es fundamental para entornos corporativos porque ofrece servicios de autenticación, control de acceso, políticas de grupo (GPOs) y mucho más.
 
-En el ámbito del **pentesting**, entender cómo funciona AD es esencial para identificar vulnerabilidades en estructuras como controladores de dominio, privilegios delegados y configuraciones mal aseguradas.
+---
+
+## 📚 En esta sección aprenderás:
+
+- 🧠 Conceptos clave de **Active Directory** y su arquitectura.
+- 🔐 Autenticación y autorización con **Kerberos** y **NTLM**.
+- 🕵️‍♂️ Técnicas de enumeración de objetos AD usando herramientas como `ldapsearch`, `BloodHound`, `rpcclient`, etc.
+- 🎯 Escalada de privilegios a través de:
+  - Delegaciones inseguras
+  - Permisos mal configurados
+  - Kerberoasting
+  - Pass-the-Hash / Pass-the-Ticket
+- 💥 Cómo comprometer controladores de dominio y moverse lateralmente dentro de la red.
+
+---
 
 🧠 Aprender a auditar y atacar un entorno Active Directory es clave para cualquier profesional de ciberseguridad ofensiva y defensiva.
 
 🔗 GitBook: [Active Directory](https://pentester-101.gitbook.io/marcos.las)
-
-------------
