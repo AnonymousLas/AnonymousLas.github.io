@@ -1,4 +1,4 @@
-# Portafolio de Marcus Antonio 🛡️💻
+# Portafolio de Marco Antonio 🛡️💻
 
 Bienvenido a mi portafolio personal de proyectos, apuntes y publicaciones en ciberseguridad, desarrollo web y tecnología. Aquí comparto experimentos, investigaciones y material relacionado con hacking ético, ingeniería inversa, desarrollo seguro, análisis de malware y más.
 
