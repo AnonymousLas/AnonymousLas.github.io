@@ -2,7 +2,7 @@
 
 Bienvenido a mi portafolio personal de proyectos, apuntes y publicaciones en ciberseguridad, desarrollo web y tecnología. Aquí comparto experimentos, investigaciones y material relacionado con hacking ético, ingeniería inversa, desarrollo seguro, análisis de malware y más.
 
-🌐 **Sitio Web**: [Enlace a tu web](https://tusitioweb.com)
+🌐 **Sitio Web**: [Enlace a tu web](https://anonymouslas.github.io/)
 
 ---
 
@@ -45,9 +45,10 @@ Soy entusiasta de la ciberseguridad, apasionado por el aprendizaje constante y l
 
 ## 📫 Contacto
 
-Puedes contactarme a través de mis redes o correo (opcional):
-- LinkedIn: [Tu perfil]
-- Correo: [tucorreo@ejemplo.com]
+Puedes contactarme a través de mis redes o correo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcus%20Antonio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marco-antonio-ferroñan-melchor-a52022273)
+[![Correo](https://img.shields.io/badge/Email-N00379444-red?style=for-the-badge&logo=gmail)](mailto:N00379444)
 
 ---
 
