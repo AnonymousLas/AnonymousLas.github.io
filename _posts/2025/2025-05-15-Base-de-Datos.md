@@ -2,7 +2,7 @@
 title: "Base de Datos"
 date: 2025-05-01 11:00:00 -0100
 categories: [Base de Datos, SQL, Datos]
-tags: [Base de Datos, SQL, Datos]
+tags: [Base de Datos, SQL, Datos, Modelado, Entidad - Relación]
 image: /assets/img/Bases-de-datos.webp
 alt: "Consulta a bases de datos y análisis SQL"
 ---

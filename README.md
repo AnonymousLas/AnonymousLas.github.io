@@ -1,43 +1,55 @@
-# Chirpy Starter
+# Portafolio de Marcus Antonio 🛡️💻
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Bienvenido a mi portafolio personal de proyectos, apuntes y publicaciones en ciberseguridad, desarrollo web y tecnología. Aquí comparto experimentos, investigaciones y material relacionado con hacking ético, ingeniería inversa, desarrollo seguro, análisis de malware y más.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+🌐 **Sitio Web**: [Enlace a tu web](https://tusitioweb.com)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 🔍 Temas principales
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- **🔐 Active Directory**
+- **🛡️ Cybersecurity Defender**
+- **🌐 Creación de Web Apps**
+- **🔁 Reversing (Ingeniería Inversa)**
+- **🧪 Pentesting Web**
+- **🐞 Bug Bounty**
+- **🗃️ Bases de Datos**
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+---
 
-## Usage
+## 📚 Estructura del sitio
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+- `Home`: Últimos artículos y publicaciones destacadas.
+- `Categorías`: Navegación por temas como Ciberseguridad, Programación y más.
+- `Tags`: Accede por etiquetas populares como `HackTheBox`, `GitBook`, `Hacker`.
+- `Archivos`: Historial de publicaciones por fecha.
+- `About`: Más información sobre mí y el propósito del sitio.
 
-## Contributing
+---
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+## 🚀 Tecnologías utilizadas
 
-## License
+- Markdown y GitBook para documentación
+- HTML/CSS para maquetado personalizado
+- Recursos visuales con licencias libres
+- GitHub Pages para despliegue
 
-This work is published under [MIT][mit] License.
+---
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🧠 Sobre mí
+
+Soy entusiasta de la ciberseguridad, apasionado por el aprendizaje constante y la práctica en entornos reales como Hack The Box y laboratorios de pruebas. Este sitio refleja mi camino de aprendizaje y está en constante evolución.
+
+---
+
+## 📫 Contacto
+
+Puedes contactarme a través de mis redes o correo (opcional):
+- LinkedIn: [Tu perfil]
+- Correo: [tucorreo@ejemplo.com]
+
+---
+
+> Este portafolio es un proyecto personal con fines educativos y profesionales. Todos los contenidos aquí publicados están orientados a la divulgación ética y responsable del conocimiento.
+

@@ -6,7 +6,7 @@ tags: [Windows, Directory, Empresa, Web, Hack The Box, Try hack me, GitBook, Lib
 image: /assets/img/active-directory.webp
 alt: "Image alt text"
 ---
-# 🧩 Active Directory
+# 🪟  Active Directory
 
 **Active Directory (AD)** es una tecnología de Microsoft utilizada para gestionar y organizar redes empresariales. Permite administrar usuarios, equipos y recursos desde una ubicación centralizada. Es fundamental para entornos corporativos porque ofrece servicios de autenticación, control de acceso, políticas de grupo (GPOs) y mucho más.
 
